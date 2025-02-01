@@ -1,0 +1,26 @@
+# Ignore build directories
+Debug/
+x64/
+
+# Ignore VS-specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore binary files
+*.exe
+*.pdb
+*.idb
+*.lib
+*.dll
+
+# Ignore logs and other temp files
+*.log
+*.tlog
+*.pch
